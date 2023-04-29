@@ -8,8 +8,8 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here] ()
-- Live Site URL: [Add live site URL here] ()
+- Solution URL: [solution URL here] (https://www.frontendmentor.io/solutions/loopstudios-landing-page-with-redesign-7lwEucytak)
+- Live Site URL: [live site URL here] (https://adorable-cucurucho-7b8678.netlify.app/)
 
 
 ### Built with
